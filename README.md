@@ -1,6 +1,9 @@
 # Skill Tom de Voz (exemplo: iFood 🗣️)
 
-Skill para validação de tom de voz entre conteúdos do Figma e a linguagem autêntica do público-alvo da iFood no Instagram.
+Skill para validação de tom de voz entre conteúdos do Figma e a linguagem autêntica do público-alvo da iFood no Instagram. 
+**IMPORTANTE**:
+É necessário usar o Claude na versão desktop.
+É necessário instalar a extensão da ferramenta Apify, dentro do Claude.
 
 ---
 
