@@ -19,6 +19,10 @@ Para compartilhar o conteúdo específico do Figma:
 3. Escolher 'Copy/Paste as' → 'Copy link to selection'
 4. Colar o link no chat
 
+## Formato do documento
+
+Para esse relatório utilize o formato de documento MD e não DOCX
+
 ## Processo de Análise
 
 Execute as seguintes etapas em ordem:
@@ -30,6 +34,7 @@ Execute as seguintes etapas em ordem:
 
 ### 2. Analisar os Comentários do Instagram
 - Acessar o perfil do Instagram da iFood Brasil (@ifoodbrasil)
+- Usar a extensão do Apify, instalada no Claude, para realizar o processo de web scraping e ter acesso aos comentários dos últimos 10 posts publicados no perfil @ifoodbrasil, no Instagram
 - Analisar os comentários dos 10 últimos posts publicados
 - Identificar padrões de linguagem, expressões, tom emocional e vocabulário utilizado pelos seguidores
 
