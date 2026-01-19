@@ -4,7 +4,7 @@ Skill para validação de tom de voz entre conteúdos do Figma e a linguagem aut
 
 ---
 
-## 📋 O Problema
+## O Problema
 
 UX Writers e Content Designers frequentemente criam conteúdos para aplicativos e interfaces sem ter uma forma objetiva de validar se estão realmente "falando a mesma língua" do público-alvo. Existe um gap entre:
 
@@ -19,7 +19,7 @@ Esse desalinhamento pode resultar em:
 
 ---
 
-## ✨ A Solução
+## A Solução
 
 Esta skill automatiza a análise comparativa entre o tom de voz do seu conteúdo no Figma e a linguagem real dos seguidores da iFood Brasil no Instagram. 
 
@@ -32,7 +32,7 @@ Esta skill automatiza a análise comparativa entre o tom de voz do seu conteúdo
 
 ---
 
-## 🎯 O Propósito
+## O Propósito
 
 Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, permitindo que profissionais de UX e design:
 
@@ -44,7 +44,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
 
 ---
 
-## 🎁 O que você ganha com isso
+## O que você ganha com isso
 
 ### Para UX Writers e Content Designers:
 - ✅ Validação rápida de tom de voz (minutos vs. horas de pesquisa manual)
@@ -66,7 +66,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
 
 ---
 
-## 💡 Casos de uso
+## Casos de uso
 
 ### 1. Fluxo de checkout
 **Cenário:** Você criou o microcopy para o fluxo de checkout do app iFood.
@@ -111,7 +111,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
 
 ---
 
-## 📥 Instalação
+## Instalação
 
 ### Pré-requisitos
 - Conta ativa no Claude.ai
@@ -149,7 +149,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
 
 ---
 
-## 🎨 Integração com o Figma
+## Integração com o Figma
 
 ### Como obter o link correto do Figma
 
@@ -191,7 +191,7 @@ https://www.figma.com/file/ABC123/Projeto?node-id=123:456&t=xyz789
 
 ---
 
-## 🎓 O que você aprenderá
+## O que você aprenderá
 
 Usando esta skill regularmente, você desenvolverá:
 
@@ -221,7 +221,7 @@ Usando esta skill regularmente, você desenvolverá:
 
 ---
 
-## 🙏 Créditos
+## Créditos
 
 Esta skill foi desenvolvida para facilitar o trabalho de profissionais de UX Writing e Content Design, especialmente aqueles que trabalham com produtos digitais onde a autenticidade da linguagem é fundamental para o sucesso.
 
@@ -231,7 +231,7 @@ Esta skill foi desenvolvida para facilitar o trabalho de profissionais de UX Wri
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
 
@@ -247,7 +247,7 @@ Você é livre para:
 
 ---
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Se você tem ideias para melhorar esta skill:
 
@@ -266,7 +266,7 @@ Contribuições são bem-vindas! Se você tem ideias para melhorar esta skill:
 
 ---
 
-## 📞 Suporte
+## Suporte
 
 Encontrou algum problema ou tem dúvidas?
 
@@ -276,7 +276,7 @@ Encontrou algum problema ou tem dúvidas?
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 Funcionalidades planejadas para futuras versões:
 
@@ -290,7 +290,7 @@ Funcionalidades planejadas para futuras versões:
 
 ---
 
-## ⭐ Mostre seu apoio
+## Mostre seu apoio
 
 Se esta skill foi útil para você, considere:
 - ⭐ Dar uma estrela no repositório
