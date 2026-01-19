@@ -276,20 +276,6 @@ Encontrou algum problema ou tem dúvidas?
 
 ---
 
-## Roadmap
-
-Funcionalidades planejadas para futuras versões:
-
-- [ ] Análise comparativa com múltiplos perfis sociais
-- [ ] Histórico de análises e evolução do tom de voz
-- [ ] Exportação de relatórios em PDF
-- [ ] Sugestões de glossário personalizado
-- [ ] Integração com Notion para documentação
-- [ ] Dashboard com métricas de alinhamento ao longo do tempo
-- [ ] Suporte multilíngue
-
----
-
 ## Mostre seu apoio
 
 Se esta skill foi útil para você, considere:
