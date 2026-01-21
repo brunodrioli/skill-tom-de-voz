@@ -120,8 +120,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
 ### Pré-requisitos
 - Conta ativa no Claude.ai
 - Acesso ao Figma (visualização ou edição)
-- Acesso ao perfil do Instagram @ifoodbrasil (público)
-
+  
 ### Passo a Passo
 
 1. **Baixe o arquivo da skill**
@@ -129,7 +128,7 @@ Criar uma ponte entre o design de conteúdo e a voz autêntica do usuário, perm
    # Clone o repositório
    git clone https://github.com/seu-usuario/skill-tom-de-voz.git
    
-   # Ou baixe diretamente o arquivo .skill
+   # Ou baixe diretamente o arquivo .skill ou .md
    ```
 
 2. **Acesse o Claude.ai**
